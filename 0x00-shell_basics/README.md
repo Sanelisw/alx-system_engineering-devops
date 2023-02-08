@@ -1,1 +1,1 @@
-Shell basics Task 0
+Display current directory contents, including hidden files
